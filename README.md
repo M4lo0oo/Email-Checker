@@ -11,3 +11,11 @@ And click here
 1. Extract the file
 2. Put the email in email.txt
 3. Launch start.bat
+```
+
+Made with :heart: by M4lo0oo
+
+[My Github](https://github.com/M4lo0oo) / 
+[Discord](https://discord.gg/PgAt8FBrSJ) / 
+[Instagram](https://www.instagram.com/malolc_/) / 
+[Youtube](https://www.youtube.com/@Malo5659)
